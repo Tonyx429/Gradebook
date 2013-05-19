@@ -4,7 +4,7 @@ public class Grades {
 	
 		System.out.println("My Gradebook (UIC)");
 		String courses[][] = {{"ASAM 125 - ", "ECE 115 - ", "MATH 181 - ", "ENGL 160 - ", "ANTH 100 - ", "ENGL 161 - ", "MATH 210 - ", "CHEM 112 - ", "PHYS 141 - "}, {"A", "A", "B", "B", "A", "B", "A", "A","B"}};
-		
+
 		display(courses);
 
 	}	
